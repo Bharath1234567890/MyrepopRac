@@ -1,3 +1,3 @@
 # MyrepopRac
 Repo min prac
-author - bharath kumar
+author - bharath kumar(apnininin)
